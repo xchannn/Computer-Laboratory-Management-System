@@ -1,4 +1,4 @@
-# 🌟 Computer Laboratory Management System  
+# 💻 Computer Laboratory Management System  
 
 The **Computer Laboratory Management System** is a web-based platform designed to efficiently manage multiple computer laboratories. It offers user roles for administrators and laboratory assistants, ensuring streamlined and effective lab management.
 
