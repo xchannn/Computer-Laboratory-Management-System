@@ -11,10 +11,7 @@ The **Computer Laboratory Management System** is a web-based platform designed t
 &nbsp;&nbsp;&nbsp;&nbsp;🧑‍🔧 **Laboratory Assistant**: Manages and tracks laboratory equipment.  
 
 🔹 **Laboratory Management**: Add, search, and manage computer lab records seamlessly.  
-🔹 **Real-Time Search**: Perform instant searches without clicking a button.  
-🔹 **Responsive UI**: Sleek sidebar navigation with modern icons and a fully responsive design.  
-🔹 **Activity Logs**: Monitor user activities to ensure accountability.  
-🔹 **Customizable Table Views**: Choose to display 10, 50, or 100 rows with pagination options.  
+🔹 **Real-Time Search**: Perform instant searches without clicking a button.   
 🔹 **Equipment Status Management**: View and manage equipment status by assigned labs.  
 
 ---
