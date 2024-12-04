@@ -51,4 +51,4 @@ The **Computer Laboratory Management System** is a web-based platform designed t
 
 1. **Clone the repository**:  
    ```bash  
-   git clone https://github.com/yourusername/computer-lab-management.git  
+   git clone https://github.com/xchannn/Computer-Laboratory-Management-System.git
